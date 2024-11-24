@@ -1,0 +1,15 @@
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe.config
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.pdb
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.Form1.resources
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.Properties.Resources.resources
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csproj.GenerateResource.cache
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csproj.CoreCompileInputs.cache
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.exe
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.pdb
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\Interop.WMPLib.dll
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\AxInterop.WMPLib.dll
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\Interop.WMPLib.dll
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\AxInterop.WMPLib.dll
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csproj.ResolveComReference.cache
+c:\users\sena ceylan\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csprojAssemblyReference.cache
